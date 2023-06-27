@@ -12,3 +12,23 @@ resources/scribblepad.ipynb
 resources/Time_Series_Analysis_pouyaardehkhani.ipynb
 resources/Data/co2_mm_mlo.csv
 resources/Data/starbucks.csv
+1-3/ACS_Demog_Human_Readable_Rows_Pruned.csv
+.gitignore
+1-3/ACS_Demographic_Characteristics_DC_Census_Tract.csv
+.gitignore
+1-3/ACS_Demog_Human_Readable_Rows.csv
+2-5/Data/Sample-Superstore.csv
+1-4/data/demo.db3
+End_Station_Finder/Berlin GTFS data/agency.txt
+End_Station_Finder/Berlin GTFS data/calendar_dates.txt
+End_Station_Finder/Berlin GTFS data/calendar.txt
+End_Station_Finder/Berlin GTFS data/frequencies.txt
+End_Station_Finder/Berlin GTFS data/levels.txt
+End_Station_Finder/Berlin GTFS data/pathways.txt
+End_Station_Finder/Berlin GTFS data/routes.txt
+End_Station_Finder/Berlin GTFS data/shapes.txt
+End_Station_Finder/Berlin GTFS data/stop_times.txt
+End_Station_Finder/Berlin GTFS data/stops.txt
+End_Station_Finder/Berlin GTFS data/transfers.txt
+End_Station_Finder/Berlin GTFS data/trips.txt
+2-5/VS Electronics DB build in PostrgreSLQ.ipynb
