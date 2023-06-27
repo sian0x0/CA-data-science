@@ -32,3 +32,15 @@ End_Station_Finder/Berlin GTFS data/stops.txt
 End_Station_Finder/Berlin GTFS data/transfers.txt
 End_Station_Finder/Berlin GTFS data/trips.txt
 2-5/VS Electronics DB build in PostrgreSLQ.ipynb
+end-station-finder/Berlin GTFS data/agency.txt
+end-station-finder/Berlin GTFS data/calendar_dates.txt
+end-station-finder/Berlin GTFS data/calendar.txt
+end-station-finder/Berlin GTFS data/frequencies.txt
+end-station-finder/Berlin GTFS data/levels.txt
+end-station-finder/Berlin GTFS data/pathways.txt
+end-station-finder/Berlin GTFS data/routes.txt
+end-station-finder/Berlin GTFS data/shapes.txt
+end-station-finder/Berlin GTFS data/stop_times.txt
+end-station-finder/Berlin GTFS data/stops.txt
+end-station-finder/Berlin GTFS data/transfers.txt
+end-station-finder/Berlin GTFS data/trips.txt
