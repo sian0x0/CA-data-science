@@ -44,3 +44,15 @@ end-station-finder/Berlin GTFS data/stop_times.txt
 end-station-finder/Berlin GTFS data/stops.txt
 end-station-finder/Berlin GTFS data/transfers.txt
 end-station-finder/Berlin GTFS data/trips.txt
+End-Station/Berlin GTFS data/agency.txt
+End-Station/Berlin GTFS data/calendar_dates.txt
+End-Station/Berlin GTFS data/calendar.txt
+End-Station/Berlin GTFS data/frequencies.txt
+End-Station/Berlin GTFS data/levels.txt
+End-Station/Berlin GTFS data/pathways.txt
+End-Station/Berlin GTFS data/routes.txt
+End-Station/Berlin GTFS data/shapes.txt
+End-Station/Berlin GTFS data/stop_times.txt
+End-Station/Berlin GTFS data/stops.txt
+End-Station/Berlin GTFS data/transfers.txt
+End-Station/Berlin GTFS data/trips.txt
