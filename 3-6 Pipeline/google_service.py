@@ -5,6 +5,8 @@ def save_data():
     data = get_data()
     gc = gspread.service_account(filename="3-6 Pipeline/data/service_account.json")
     wks = gc.open("pipeline-data").sheet1
-    wks.append_row([data["date"],
-                    data["close"]])
+    
+    for item in data:
+        wks.append_row([item["date"], item["close"]])
+
 save_data()
