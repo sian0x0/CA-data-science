@@ -57,3 +57,9 @@ End-Station/Berlin GTFS data/stops.txt
 End-Station/Berlin GTFS data/transfers.txt
 End-Station/Berlin GTFS data/trips.txt
 2-5/Data/Sample-Superstore-cleaner.csv
+3-6 Trains Pipeline/data/*
+3-6 Pipeline/todoist main api.py
+3-6 Pipeline/api_request_package/*
+3-6 Pipeline/gspread_package/*
+3-6 Pipeline/data/*
+3-6 Pipeline/__pycache__/main.cpython-38.pyc
